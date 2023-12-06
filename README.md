@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **okemoto6/okemoto6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Find me at:
+
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftomasz-olszynka%2F)](https://www.linkedin.com/in/tomasz-olszynka)
+[![](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/okemoto/)](https://public.tableau.com/app/profile/okemoto)
+[![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/okemoto6)](https://github.com/okemoto6) 
