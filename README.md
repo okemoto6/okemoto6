@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I see myself inbetween e-commerce specialist and data analyst role, trying to bring them together in my professional career. Right now I'm focusing on Python, R and SQL to grow and achive fluency in those languages. I also enjoy using Tableau for visializations.  
+I see myself inbetween e-commerce specialist and data analyst roles, trying to bring them together in my professional career. Right now I'm focusing on Python, R and SQL to grow and achive fluency in those languages. I also enjoy using Tableau for visializations.  
 
 Here I gather my analysis, projects and all resources that help me to develop in data-related field.  
 
